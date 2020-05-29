@@ -1,0 +1,17 @@
+# Idea project settings
+.idea/
+
+# Environments
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# exclude everything
+sheets/*
+output/*
+# exception to the rule
+!sheets/.gitkeep
+!output/.gitkeep
